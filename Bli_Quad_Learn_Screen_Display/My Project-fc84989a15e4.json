@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ageless-fire-135323",
+  "private_key_id": "fc84989a15e42ce8aed2fd747e9f40be96c06bb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyUanPGOoj2UnQ\nnFQYVyAyfXAY3e/ZAqH4hBhA+a57Bm+AvyCjxqs7iCtpE2/+1w4oDRAeABsl2KO6\nVEU7HpRefCDmonvZN8CEFhUi3+HRodnkkZ6eCI/Awlu7f5Gsw2ma/spimoP2aKA3\nrVEmGNp2nEJwkwm+rtmP+PvuocudA90D0pL7UfQBXoblK1r5Qcx7z25G0Mjq515h\nm5JLY8RtftbB12E6EP0C2Rbz2W13y9qV5k8FXU1qrx2fvJu8IoUDJ3Ou1Tapt3/t\nt4ALHrOSU+lBE9/YcwlfYoc8cD2SCDLHKlezdINvk6Mrib9Nv0zSdbxmuCjM9pKW\nHO4SNEMZAgMBAAECggEADXdysNvbfYRAuYBqLsG7AhUht2m2CK1/je/BOnxLW6nL\nbJhX3rEiPVy16o7ikQcCCq7x3fzOurehpcYMyb+FdPKViYARL6uw3kjMpSrt4ucA\n4uzHDdLtCExP9oOr0grv7sSkhCMnKXS9T3ccqcPhZmkRRhnUopHnMaLxY77UTFyI\ntw38uXiC1ZRB5O6dUBF1CJ7AJsbtCoyxm9DHIcU2lt0t9vwmQ15XhOy/b+AP9Bxr\nogyXaV10UxFHUj//2FLWL9fALf1YFdEbZzR5YkzoKFLppdQNIl1IZ6BNij7+FZO8\nXghx4AxgxGmc1ECggX3V9fflMqgpMkb7hygovC24AQKBgQDbFVj2fe3dho27s6e6\nDZ9Dft+qIa81ZutMQvjGgIg7x0rt0N7iTwvkg+dTgDeYkzxUO4ukJB/gCeSWt2bV\nvHZuVzTtqCFET8jojeh8Y9KyGY5PnoSLrNd/cEuh3oL3fmxJrvih5UpClWw3r4HN\nmmOVe5qhT+WL9esPXo6sAxTHewKBgQDQXdo+T5pZD7Cu2ySdraEq8xXu5MPciu3s\ntsnQ5uieXo8/EhpLFLZ2q/cOG+8U8+utDYPVVJMQYrVMy0RJJ4iUU4CXYmrODMRS\nQTG+D8yReiFcN6T3+fcepUJ9phswDBENJBVNFxU+4VdbCw8lc/7quo2QD4LTv5Zi\nfFSbxAfRewKBgHz5Y4NQ+MS6wdVGObLHnId7M4mwp2r2J9mcBp/tqEk5eYPJ96rv\nXqBfojEe3hgaPXrrcNAUj15VJmHXg0D/vitZceb0Vu3J+Zi3gtyacRGJxIWkroWi\n9ldLLsnKzbjzFEDAIDLyQndTF6V4Z7pqjM4z8VR96Dr78LgWv5peM5dLAoGBALcB\nNyVzFMUUGsH4hvhV/y+RwLnJAp05CC7Xe/mWVMiDlJx4cc9vqbIg5yPlNN7aPSwI\nqrk7Rs8lYsbH4Hm/1x0vGcncDqJaZDM6P04G4k0DTzmHRcTmLj0kOHnS4h4Y+wDn\nqC3FEEvh7q9vzyW98y6GGr9kYCtKIfLt8AG+8n7xAoGBAI+YEZXVD+TE5ebc/DRT\nhpLzNv4Ak4ZhxG01BLEJ3atea3GJh1tDUiUyhS7l7E+YgZgLImi95k8QDrLhzdga\nw9IHse94QlsN2LaWhkTp30ME3B/SyTsxGGrDDMug7opVM9MAscf9JJECkWrSqm98\nvjuPlkxtFwpN+J7xWOT/Gfnu\n-----END PRIVATE KEY-----\n",
+  "client_email": "bli-quad-learn@ageless-fire-135323.iam.gserviceaccount.com",
+  "client_id": "100627092138557299327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bli-quad-learn%40ageless-fire-135323.iam.gserviceaccount.com"
+}

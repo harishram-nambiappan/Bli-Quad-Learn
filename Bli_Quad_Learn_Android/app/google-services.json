@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563045880767",
+    "project_id": "bli-quad-learn",
+    "storage_bucket": "bli-quad-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563045880767:android:83f8ff9734e91f13f3c70a",
+        "android_client_info": {
+          "package_name": "com.harishram.bli_quad_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563045880767-lfri64itc9fqshdcb3hmov9i38gbhekb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuOujqyM2iCD2b6ayoHmn3aAHnXP5byo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563045880767-lfri64itc9fqshdcb3hmov9i38gbhekb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
