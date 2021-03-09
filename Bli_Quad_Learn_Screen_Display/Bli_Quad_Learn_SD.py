@@ -6,11 +6,11 @@ from ffpyplayer.player import MediaPlayer
 import os
 
 
-storage_client = storage.Client.from_service_account_json('Bli-Quad Learn-496b076d597f.json')
+storage_client = storage.Client.from_service_account_json('Your_json_file')
 buckets = list(storage_client.list_buckets())
 st_buck = buckets[0]
 
-firebase = firebase.FirebaseApplication('https://bli-quad-learn-default-rtdb.firebaseio.com', None)
+firebase = firebase.FirebaseApplication('Firebase_Database_Reference', None)
 
 while True:
     try:
